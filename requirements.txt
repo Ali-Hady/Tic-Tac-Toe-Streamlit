@@ -12,16 +12,13 @@ blinker==1.4
 CacheControl==0.12.10
 cachetools==5.2.0
 cachy==0.3.0
-certifi @ file:///home/runner/.cache/pypoetry/artifacts/8b/52/1e/b080fb283a903a96637a3b6793d87b5c7e7db4ced809f64d4d842f3796/certifi-2022.5.18.1-py3-none-any.whl
 cffi==1.15.0
-charset-normalizer @ file:///home/runner/.cache/pypoetry/artifacts/ec/5b/a2/c10e4856edc87c679dee9eda80eaf78838440ead15e9f074a8cb791024/charset_normalizer-2.0.12-py3-none-any.whl
 cleo==0.8.1
 click==8.1.3
 clikit==0.6.2
 commonmark==0.9.1
 crashtest==0.3.1
 cryptography==35.0.0
-debugpy @ file:///home/runner/.cache/pypoetry/artifacts/6e/55/5d/52f7526333b226b391320c61b9ffc3626e84e285b23968d6f68b1d2bff/debugpy-1.6.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
 decorator==5.1.1
 defusedxml==0.7.1
 distlib==0.3.3
@@ -35,7 +32,6 @@ gitdb==4.0.9
 GitPython==3.1.27
 html5lib==1.1
 idna==3.3
-importlib-metadata @ file:///home/runner/.cache/pypoetry/artifacts/02/b8/e7/cdbf046c6e0c5587bd0cde7fba83b0aed864615e50ef74e886fa097283/importlib_metadata-4.11.4-py3-none-any.whl
 importlib-resources==5.7.1
 ipykernel==6.13.0
 ipython==8.4.0
@@ -60,8 +56,6 @@ nbconvert==6.5.0
 nbformat==5.4.0
 nest-asyncio==1.5.5
 notebook==6.4.11
-numpy @ file:///home/runner/.cache/pypoetry/artifacts/0a/f1/63/4e86e206dd78b5ffa1d0b33299c8275c3e1a2411fac9d63320ce69de5f/numpy-1.22.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-packaging @ file:///home/runner/.cache/pypoetry/artifacts/82/df/40/32209c7562a84225e4443144916b85b763853a2c01b8df40ca51847fd8/packaging-21.3-py3-none-any.whl
 pandas==1.4.2
 pandocfilters==1.5.0
 parso==0.8.3
@@ -89,7 +83,6 @@ pyflakes==2.1.1
 Pygments==2.12.0
 pylev==1.4.0
 Pympler==1.0.1
-pyparsing @ file:///home/runner/.cache/pypoetry/artifacts/95/8e/67/7c07b50a56fd53f9deb19bccf77afe14d18c31018b923b69c69b328d15/pyparsing-3.0.9-py3-none-any.whl
 pyrsistent==0.18.1
 python-dateutil==2.8.2
 python-lsp-jsonrpc==1.0.0
@@ -97,7 +90,6 @@ python-lsp-server==1.4.1
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
 pyzmq==23.1.0
-requests @ file:///home/runner/.cache/pypoetry/artifacts/15/3c/d9/96434347a23410cdcf0d36c6f02f274d98d8cb07a1a0ebc81dc5ecc54b/requests-2.27.1-py2.py3-none-any.whl
 requests-toolbelt==0.9.1
 rich==12.4.4
 rope==0.18.0
